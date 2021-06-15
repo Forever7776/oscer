@@ -182,7 +182,7 @@
         <dependency>
             <groupId>org.apache.tomcat.embed</groupId>
             <artifactId>tomcat-embed-core</artifactId>
-            <version>9.0.22</version>
+            <version>9.0.41</version>
             <exclusions>
                 <exclusion>
                     <artifactId>tomcat-annotations-api</artifactId>
