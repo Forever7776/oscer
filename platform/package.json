@@ -39,7 +39,7 @@
     "gulp-imagemin": "^4.1.0",
     "gulp-qndn": "0.0.4",
     "has-gulplog": "^0.1.0",
-    "lodash": "^3.0.0",
+    "lodash": "^4.17.21",
     "lodash._reescape": "^3.0.0",
     "lodash._reevaluate": "^3.0.0",
     "lodash._reinterpolate": "^3.0.0",
